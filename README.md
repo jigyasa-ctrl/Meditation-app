@@ -1,2 +1,2 @@
-# Meditation-app
-#Meditation-app-using-javascript
+
+# Meditation app using javascript
